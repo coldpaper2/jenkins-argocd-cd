@@ -15,5 +15,5 @@ spec:
         app: test
     spec:
       containers:
-        - image: mhkim1560/jenkins-argocd:32
+        - image: mhkim1560/jenkins-argocd:44
           name: nginx
